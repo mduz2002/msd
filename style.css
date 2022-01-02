@@ -1,0 +1,66 @@
+html{
+	color: darkblue;
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+	/*background: linear-gradient(grey,black);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;*/
+}
+
+ul{
+	list-style-type: none;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	background-color: #444444;
+}
+li a{
+	float:left;
+	display: block;
+	color: white;
+	padding:10px 15px;
+	text-align: center;
+	text-decoration:none;
+	border-right: 1px solid black;
+	min-width:60px;
+}
+
+li a:hover{
+	background-color: #222222;
+}
+
+h1{
+	background: linear-gradient(yellow,green, white);
+	border: 1px solid;
+	width: 578px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+p1{
+	background: linear-gradient(to right,grey,black);
+}
+.fa-skype{
+	color:#00AFF0;
+}
+.fa-home{
+	color:yellow;
+}
+.fa-phone{
+	color:green;
+}
+.fa-envelope{
+	color:orange;
+}
+p2
+#mytext{
+background: linear-gradient(to right,grey,black);	
+
+
