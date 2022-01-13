@@ -16,7 +16,7 @@ html{
 
 ul{
 	list-style-type: none;
-	width:648px;
+	width:360px;
 	padding:0px;
 	margin:0px;
 	overflow:hidden;
@@ -25,7 +25,7 @@ ul{
 li a{
 	float:left;
 	display: block;
-	width: 648px;
+	width: 360px;
 	color: white;
 	padding:10px 15px;
 	text-align: center;
@@ -41,7 +41,7 @@ li a:hover{
 h1{
 	background: linear-gradient(yellow,green, white);
 	border: 1px solid;
-	width: 648px;
+	width: 360px;
 	margin-bottom: 0px;
 	text-align: center;
 }
