@@ -16,7 +16,7 @@ html{
 
 ul{
 	list-style-type: none;
-	width:747.5px;
+	width:647.5px;
 	padding:0px;
 	margin:0px;
 	overflow:hidden;
@@ -40,7 +40,7 @@ li a:hover{
 h1{
 	background: linear-gradient(yellow,green, white);
 	border: 1px solid;
-	width: 747.5px;
+	width: 647.5px;
 	margin-bottom: 0px;
 	text-align: center;
 }
