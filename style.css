@@ -5,11 +5,7 @@ html{
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
-	border-style:solid;
-	border-width: 5px;
-	border-color: gold;
-	border-radius: 10px;
-	padding: 5px;
+	
 
 
 	/*background: linear-gradient(grey,black);
