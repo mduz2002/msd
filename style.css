@@ -17,7 +17,7 @@ html{
 
 ul{
 	list-style-type: none;
-	width:360px;
+	width:400px;
 	padding:0px;
 	margin:0px;
 	overflow:hidden;
@@ -26,7 +26,7 @@ ul{
 li a{
 	float:left;
 	display: block;
-	width: 360px;
+	width: 400px;
 	color: white;
 	padding:10px 15px;
 	text-align: center;
@@ -42,18 +42,19 @@ li a:hover{
 h1{
 	background: linear-gradient(yellow,green, white);
 	border: 1px solid;
-	width: 360px;
+	width: 400px;
 	margin-bottom: 0px;
 	text-align: center;
 }
 
-p2{
+p{
+	text-align:justify;
+	max-width: 390px;
 	border-style:solid;
 	border-width: 5px;
 	border-color: gold;
 	border-radius: 10px;
 	padding: 5px;
-	background: linear-gradient(to right,grey,black);
 }
 
 .fa-skype{
