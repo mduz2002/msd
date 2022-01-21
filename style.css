@@ -8,12 +8,13 @@ html{
 }
 
 ul{
+	font-family: "Lucida Console", "Courier New", monospace;
 	list-style-type: none;
 	width:408px;
 	padding:0px;
 	margin:0px;
 	overflow:hidden;
-	background-color: #444444;
+	background: linear-gradient(#ADD8E6, white, grey);
 }
 li a{
 	float:left;
