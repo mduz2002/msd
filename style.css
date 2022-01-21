@@ -32,7 +32,7 @@ li a:hover{
 }
 
 h1{
-	background: linear-gradient(yellow,green, white);
+	background: linear-gradient(blue, grey, white);
 	border: 1px solid;
 	width: 408px;
 	margin-bottom: 0px;
