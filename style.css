@@ -9,6 +9,7 @@ html{
 
 ul{
 	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
 	color: yellow;
 	list-style-type: none;
 	width:408px;
